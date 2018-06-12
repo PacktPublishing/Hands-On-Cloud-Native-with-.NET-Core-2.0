@@ -1,2 +1,1 @@
-# -Hands-On-Cloud-Native-with-.NET-Core-2.0
- Hands-On Cloud Native with .NET Core 2.0, published by Packt
+# The code for this repository is under development :construction_worker:
